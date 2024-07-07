@@ -10,7 +10,7 @@ FNCLEAN.bat is a simple deep cleaner that I made. This takes around 3-4 mins to 
 
 To use it just run it as admin and let it do its thing. If it pops up any prompts just click yes.
 
-If closes please keep opening until you see webrequest and make sure you run as admin
+If closes please keep opening you know you have to re open when it closes immedietly
 
 # Apple Cleaner
 
